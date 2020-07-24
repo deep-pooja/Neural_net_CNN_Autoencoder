@@ -1,2 +1,6 @@
 # Neural_net_CNN_Autoencoder
 In this project I worked on personalized handwritten datasets as well as standard MNIST dataset. I used deep learning Keras API
+
+This assignment is credited during the course titled "Data Science and Machine Learning",taught by Dr. Sumeet Agrawal IIT Delhi.
+
+[Assignment](http://web.iitd.ac.in/~sumeet/A4_20.pdf)
