@@ -5,4 +5,4 @@ This mini project is credited during the course titled "Data Science and Machine
 
 [Assignment](http://web.iitd.ac.in/~sumeet/A4_20.pdf)
 
-For more information on methodology used and accurucy achieved please find my [Report](https://github.com/deepacefic/Neural_net_CNN_Autoencoder/blob/master/Report.pdf)
+For more information on methodology used and accuracy achieved please find my [Report](https://github.com/deepacefic/Neural_net_CNN_Autoencoder/blob/master/Report.pdf)
