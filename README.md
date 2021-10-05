@@ -12,9 +12,13 @@ This mini project is credited during the course titled "Data Science and Machine
 **Accuracy**
 ![Alt Text](model_accuracy.png)
 
+**TSE Visualization**
+
+![Alt Text](tse.png)
+
 **optimizing parametrs for the model**
 
-![Alt Text](parameter.png)
+![Alt Text](parameter-c.png)
 
 **Visualizing the hidden layers output**
 
