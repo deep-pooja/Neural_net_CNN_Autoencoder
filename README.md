@@ -4,7 +4,9 @@ In this project I worked on personalized handwritten datasets as well as standar
 This mini project is credited during the course titled "Data Science and Machine Learning",taught by [Dr. Sumeet Agrawal](https://web.iitd.ac.in/~sumeet/) IIT Delhi.
 
 [Assignment](http://web.iitd.ac.in/~sumeet/A4_20.pdf)
+
 **Model**
+
 ![Alt Text](model.png)
 
 **Accuracy**
